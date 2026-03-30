@@ -29,3 +29,21 @@ GenAI Usage
     to accomplish and how the theory from class applies to the assignment. This is what allowed me to push back and have
     a dialogue about how to appropriately code the program as well as implement the understanding of how KBs and
     propositional logic work. 
+
+Additional LLM use in the reflection:
+In addition to what I outlined above (in addition to the comparison) I used my Claude tutor in two ways
+to write my reflection - 1 worked, 1 did not.
+What worked 
+- I converted Both articles into audio files so that I could listen to them. I take in information better this way and
+    it worked well for me.
+
+What didn't work:
+- I wanted to see if I could "work smarter, not harder" by having the AI conduct research for me. I told it I wanted to
+    Prompt: " I think the only thing I would like is for you to help me find some articles as recent as
+  possible that support the following points - LLMs don't store knowledge, and aren't at the
+  point yet that you can developed a shared knowledge base with other people that can be     
+  updated by different uses. Also any articles that caution people from using AI for medical  
+  advice."
+- I did not like the articles it suggested and did not feel they related clearly to the points I was trying to make. I 
+thought it would be a waste of time to go back and forth with Claude to keep refining the search criteria and instead
+just googled things myself. 
